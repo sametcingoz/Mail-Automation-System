@@ -1,6 +1,6 @@
 # Internship Email Automation
 
-This project is a professional Python automation tool designed to streamline internship applications to companies listed in the Hacettepe Teknokent directory. It extracts company details from specific categories and sends personalized emails securely and reliably, preventing duplicate sends and avoiding spam-like behavior.
+This project is a professional Python automation tool designed to streamline internship applications to companies. It extracts company details from specific categories and sends personalized emails securely and reliably, preventing duplicate sends and avoiding spam-like behavior.
 
 ## Features
 
