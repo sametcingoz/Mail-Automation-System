@@ -4,7 +4,7 @@ This project is a professional Python automation tool designed to streamline int
 
 ## Features
 
-- **Automated Web Scraping**: Extracts company names, websites, and email addresses from the Hacettepe Teknokent directory.
+- **Automated Web Scraping**: Extracts company names, websites, and email addresses.
 - **Category-Based Templates**: Uses a specific email subject and body template for each category.
 - **Safe Sending Protocol**: Includes a delay between each email to prevent triggering spam filters.
 - **Duplicate Prevention**: Keeps a log of sent emails (`logs/sent_emails.log`) so you never email the same company twice.
